@@ -15,7 +15,7 @@ I'm a currently getting my sound play element working so that the app will have 
 
 ## Lessons Learned:
 
-I learned that a simple application can be successful, it doesn't always need to be complex.
+As I am learning was building this application, I realized that not every project has to be complex in order to be succesful. I learned to appreciate simplicity while working on this app.
 
 ## Other Projects:
 <a href="https://github.com/j-t-thomas/Portfolio-CodedByJane"><img src="codedbyjane.gif" width="358"></a>
