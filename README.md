@@ -7,7 +7,7 @@ HTML5, CSS3, Javascript - Dictionary app that displays english words along with 
 
 **Tech used:** HTML, CSS, JavaScript
 
-My learning was focused on using an API and creating a responsive button element in Javascript.
+My learning was focused on using [an API](https://dictionaryapi.dev) and creating a responsive button element in Javascript.
 
 ## Optimizations
 
